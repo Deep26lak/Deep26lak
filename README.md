@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://deep26lak.github.io/Personal-portfolio/](https://deep26lak.github.io/Personal-portfolio/)
 
-- 💬 Ask me about **REACR JAVASCRIPT MERN FRONTEND**
+- 💬 Ask me about **REACT JAVASCRIPT MERN FRONTEND**
 
 - 📫 How to reach me **Dkumar17071@gmail.com**
 
